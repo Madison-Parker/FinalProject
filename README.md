@@ -15,3 +15,15 @@ changed border thickness from 1px to 2px
 changed all images and opaque background images
 
 changed header text from all uppercase to regular text
+
+removed carousel for testimonials due to time constraint
+
+changed backgrounds and photos on contact page
+
+changed color of form backgrounds
+
+set up links to the contact page
+
+removed buttons that lead to nowhere
+
+used new font awesome icons
